@@ -20,7 +20,7 @@ Trim_final.sh
 Step 2: Align with STAR v.2.7.5c with draft genome and annotation in gff
 For draft genome and gff annotation, contact Mark D. Rausher (mrausher@duke.edu)
 IpoSp.txt 
-STAR_alignTS_genome.sh
+STAR_alignTS_genome_final.sh
 
 Step 3: Clean sequences with Picard Tools 2.19.2-1-g0d1e881
 IpoSp_1.txt 
