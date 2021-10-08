@@ -17,4 +17,4 @@ Link to Ipo_RI_survey.csv:
 https://doi.org/10.5061/dryad.2bvq83bnx
 
 R file for data analyses:
-SumSatasRI_final.R
+SumStatsRI_final.R
