@@ -1,0 +1,111 @@
+ADMIXTURE Cross Validation
+
+2-seed 43
+CV error (K=2): 0.48422
+CV error (K=3): 0.35476
+CV error (K=4): 0.30599
+CV error (K=5): 0.26280 <-
+CV error (K=6): 0.26892
+CV error (K=7): 0.26587 <<
+CV error (K=8): 0.27305
+CV error (K=9): 0.29925
+CV error (K=10): 0.31753
+
+3-seed 12345
+CV error (K=2): 0.48345
+CV error (K=3): 0.35497
+CV error (K=4): 0.31283
+CV error (K=5): 0.26215 <-
+CV error (K=6): 0.30240
+CV error (K=7): 0.26592 <<
+CV error (K=8): 0.26671
+CV error (K=9): 0.27285
+CV error (K=10): 0.27383
+
+4-seed 33374
+CV error (K=2): 0.48286
+CV error (K=3): 0.35438
+CV error (K=4): 0.31522
+CV error (K=5): 0.26178 <-
+CV error (K=6): 0.30156
+CV error (K=7): 0.26212 <<
+CV error (K=8): 0.27382
+CV error (K=9): 0.26563
+CV error (K=10): 0.26822
+
+5-seed 6783
+CV error (K=2): 0.48362
+CV error (K=3): 0.35514
+CV error (K=4): 0.31628
+CV error (K=5): 0.26111 <<
+CV error (K=6): 0.26148 
+CV error (K=7): 0.25937 <-
+CV error (K=8): 0.29816
+CV error (K=9): 0.31007
+CV error (K=10): 0.30895
+
+6-seed 10507
+CV error (K=2): 0.48358
+CV error (K=3): 0.35451
+CV error (K=4): 0.30764
+CV error (K=5): 0.26210 
+CV error (K=6): 0.26052 <-
+CV error (K=7): 0.26143 <<
+CV error (K=8): 0.30299
+CV error (K=9): 0.31643
+CV error (K=10): 0.30043
+
+7-seed 67498
+CV error (K=2): 0.48359
+CV error (K=3): 0.35529
+CV error (K=4): 0.31507
+CV error (K=5): 0.26179 <-
+CV error (K=6): 0.26565 
+CV error (K=7): 0.26340 <<
+CV error (K=8): 0.27125
+CV error (K=9): 0.26652
+CV error (K=10): 0.30926
+
+8-seed 42824
+CV error (K=2): 0.48316
+CV error (K=3): 0.35402
+CV error (K=4): 0.31322
+CV error (K=5): 0.26209 <- 
+CV error (K=6): 0.26246 <<
+CV error (K=7): 0.27103
+CV error (K=8): 0.29719
+CV error (K=9): 0.26689
+CV error (K=10): 0.27222
+
+9-seed 98023
+CV error (K=2): 0.48306
+CV error (K=3): 0.35397
+CV error (K=4): 0.31216
+CV error (K=5): 0.26174 <-
+CV error (K=6): 0.26494 <<
+CV error (K=7): 0.26721
+CV error (K=8): 0.26582
+CV error (K=9): 0.26941
+CV error (K=10): 0.26754
+
+10-seed 17430
+CV error (K=2): 0.48300
+CV error (K=3): 0.35433
+CV error (K=4): 0.31386
+CV error (K=5): 0.30980
+CV error (K=6): 0.25942 <-
+CV error (K=7): 0.26237 <<
+CV error (K=8): 0.26303
+CV error (K=9): 0.27382
+CV error (K=10): 0.34918
+
+11-seed 89078
+CV error (K=2): 0.48397
+CV error (K=3): 0.35477
+CV error (K=4): 0.30477
+CV error (K=5): 0.26438 <- 
+CV error (K=6): 0.26483 <<
+CV error (K=7): 0.27477
+CV error (K=8): 0.26714
+CV error (K=9): 0.27216
+CV error (K=10): 0.29840
