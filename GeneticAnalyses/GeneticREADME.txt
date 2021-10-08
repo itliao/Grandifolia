@@ -7,7 +7,7 @@ Used three complementary analyses to test for genetic differentiation between Ip
 (3) Neighbor joining tree
 (4) Euclidean distance tree
 
-Filtered VCF file for all analyses: filter6_201218.vcf.gz
+Filtered VCF file for all analyses: filter6_201218.vcf.gz (DRYAD)
 
 ########################################################
 # Convert VCF to files for fastSTRUCTURE and ADMIXTURE #
@@ -40,15 +40,15 @@ admixtureCV.txt
 ##################################################
 use pophelper v2.3.1 in R (Figures 5, S2)
 for species list: species4.txt
-for fastSTRUCTURE files: (admixQ)
-for ADMIXTURE files: (meanQ)
+for fastSTRUCTURE files: (admixQ; on DRYAD)
+for ADMIXTURE files: (meanQ; on DRYAD)
 R file: pophelper_final_210813.R
 
 #######
 # PCA #
 #######
 use SNPRelate in R (Figures 5, S3, S5)
-convert to gds file: newfilter6_redo.gds
+convert to gds file: newfilter6_redo.gds (on DRYAD)
 population/species codes: species3.txt
 R file: SNPRelate_final_210813.R
 
@@ -56,7 +56,7 @@ R file: SNPRelate_final_210813.R
 # Neighbor-joining tree #
 #########################
 use phangorn in R (Figure 5)
-convert to DNAbin file to convert to phyDat file from VCF: filter6_DNAbin.fasta
+convert to DNAbin file to convert to phyDat file from VCF: filter6_DNAbin.fasta (on DRYAD)
 R file: NJTree_final_210813.R
 
 ##############################
