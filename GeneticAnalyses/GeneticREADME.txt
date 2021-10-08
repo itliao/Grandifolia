@@ -29,7 +29,7 @@ chooseK_complexity.txt
 # ADMIXTURE #
 #############
 requires python 3+, so used compatible virtual environment
-randomNumber_admixture.txt - random number seed for each run; create a separate folder for each run and run the script within the specific folder
+randomNumbers_admixture.txt - random number seed for each run; create a separate folder for each run and run the script within the specific folder
 admixture_final.sh
 
 for best K, summary of cross validation output:
