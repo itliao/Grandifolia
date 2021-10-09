@@ -1,0 +1,43 @@
+fastStructure:
+
+Run 1- seed 100
+Model complexity that maximizes marginal likelihood = 6
+Model components used to explain structure in data = 5
+
+Run 2 - seed 11755
+Model complexity that maximizes marginal likelihood = 6
+Model components used to explain structure in data = 6
+
+Run 3- seed 50410
+Model complexity that maximizes marginal likelihood = 7
+Model components used to explain structure in data = 5
+
+Run 4- seed 1139
+Model complexity that maximizes marginal likelihood = 6
+Model components used to explain structure in data = 6
+
+Run 5- seed 74050
+Model complexity that maximizes marginal likelihood = 7
+Model components used to explain structure in data = 6
+
+Run 6- seed 67373
+Model complexity that maximizes marginal likelihood = 9
+Model components used to explain structure in data = 5
+
+Run 7- seed 86590
+Model complexity that maximizes marginal likelihood = 7
+Model components used to explain structure in data = 6
+
+Run 8- seed 47830
+Model complexity that maximizes marginal likelihood = 7
+Model components used to explain structure in data = 6
+
+Run 9- seed 30294
+Model complexity that maximizes marginal likelihood = 8
+Model components used to explain structure in data = 5
+
+Run 10 - seed 21114
+Model complexity that maximizes marginal likelihood = 6
+Model components used to explain structure in data = 6
+
+
