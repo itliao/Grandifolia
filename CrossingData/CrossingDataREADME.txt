@@ -18,3 +18,6 @@ https://doi.org/10.5061/dryad.2bvq83bnx
 
 R file for data analyses:
 SumStatsRI_final.R
+
+Table summarizing the statistical models tested:
+TableModelSummary_210828_final.xlsx
