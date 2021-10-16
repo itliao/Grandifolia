@@ -40,8 +40,8 @@ admixtureCV.txt
 ##################################################
 use pophelper v2.3.1 in R (Figures 5, S2)
 for species list: species4.txt
-for fastSTRUCTURE files: (admixQ; on DRYAD)
-for ADMIXTURE files: (meanQ; on DRYAD)
+for fastSTRUCTURE files: found in meanQ folder
+for ADMIXTURE files: found in admixQ folder 
 R file: pophelper_final_210813.R
 
 #######
