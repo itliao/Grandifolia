@@ -38,7 +38,7 @@ admixtureCV.txt
 ##################################################
 # Visualizing fastSTRUCTURE and ADMIXTURE output #
 ##################################################
-use pophelper v2.3.1 in R (Figures 5, S2)
+use pophelper v2.3.1 in R (Figures 5, S3)
 for species list: species4.txt
 for fastSTRUCTURE files: found in meanQ folder
 for ADMIXTURE files: found in admixQ folder 
@@ -47,7 +47,7 @@ R file: pophelper_final_210813.R
 #######
 # PCA #
 #######
-use SNPRelate in R (Figures 5, S3, S5)
+use SNPRelate in R (Figures 5, S4, S6)
 convert to gds file: newfilter6_redo.gds (on DRYAD)
 population/species codes: species3.txt
 R file: SNPRelate_final_210813.R
@@ -55,12 +55,12 @@ R file: SNPRelate_final_210813.R
 #########################
 # Neighbor-joining tree #
 #########################
-use phangorn in R (Figure 5)
+use phangorn in R (Figure 6)
 convert to DNAbin file to convert to phyDat file from VCF: filter6_DNAbin.fasta (on DRYAD)
 R file: NJTree_final_210813.R
 
 ##############################
 # Euclidean distance cluster #
 ##############################
-use poppr v.2.8.7 in R (Figure S4)
+use poppr v.2.8.7 in R (Figure S5)
 R file: poppr_EuclideanClustering_final_210813.R
